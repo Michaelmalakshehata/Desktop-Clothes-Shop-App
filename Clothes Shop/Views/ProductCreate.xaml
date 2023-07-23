@@ -1,0 +1,210 @@
+﻿<Window x:Class="Clothes_Shop.Views.ProductCreate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clothes_Shop.Views"
+        mc:Ignorable="d"
+        Height="600" Width="700"
+         WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        >
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25">
+            </RowDefinition>
+            <RowDefinition Height="500">
+            </RowDefinition>
+            <RowDefinition Height="75">
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="#204da5" Offset="0.0"/>
+                <GradientStop Color="#6cc4d5" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid Grid.Row="0">
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="25"/>
+                <ColumnDefinition Width="25"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnClose"                          
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="0" Click="btnClose_Click"
+                            >
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#DA34AE"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#C62DAE"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="btnMinimize"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1" Click="btnMinimize_Click" 
+                            >
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#28AEED"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#278BEF"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+
+            </Button>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1"  >
+            <Grid.ColumnDefinitions >
+
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Line Grid.Row="1" Grid.Column="2"  Y1="0" Y2="500" Width="10" Stroke="Blue" HorizontalAlignment="Left"></Line>
+
+            <StackPanel FlowDirection="RightToLeft" Orientation="Vertical" HorizontalAlignment="Center"  Grid.Column="1">
+
+                <StackPanel Orientation="Horizontal" Margin="0 30 0 20">
+                    <TextBlock Text="أسم المنتج"
+                               Foreground="Black"
+                               FontSize="16"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="5 15 35 0"
+                               Height="30" 
+                               />
+                    <TextBox x:Name="productname"
+                             Height="40"
+                            FontSize="11"
+                             Margin=" 0 0 0 20"
+                             Width="300" TextChanged="Product_Name" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 30 0 20">
+                    <TextBlock Text="سعر المنتج"
+                               Foreground="Black"
+                               FontSize="16"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="5 15 35 0"
+                               Height="30" 
+                               />
+                    <TextBox x:Name="productprice"
+                             Height="40"
+                            FontSize="11"
+                             Margin=" 0 0 0 20"
+                             Width="300"  TextChanged="Product_Price" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 30 0 20">
+                    <TextBlock Text="تفاصيل المنتج"
+                               Foreground="Black"
+                               FontSize="16"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="5 45 10 0"
+                               Height="30" 
+                               />
+                    <TextBox x:Name="productdetailes"
+                             Height="80"
+                            FontSize="11"
+                             Margin=" 0 0 0 20"
+                             Width="300" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" SpellCheck.IsEnabled="True" TextChanged="Product_Detailes" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Text=" أسم الفئه"
+                               Foreground="Black"
+                               FontSize="16"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Height="30" 
+                               Margin="0 0 40 0"
+                               />
+                    <ComboBox Width="308" Loaded="ComboBox_Loaded"  x:Name="categoryname"  SelectionChanged="Category_Name"/>
+                </StackPanel>
+                <Button   Margin="0 30 0 0" Width="100" Height="40" HorizontalAlignment="Center" Content="رفع صوره"  FontSize="16" Click="Upload_Image"  />
+
+            </StackPanel>
+            <Image Grid.Column="0" x:Name="productimage" Height="450" Width="230" />
+        </Grid>
+        <Line Grid.Row="2" X1="0" X2="700" Height="10" Stroke="Blue" Margin="0 0 0 70"></Line>
+        <StackPanel  HorizontalAlignment="Center"   FlowDirection="RightToLeft" Orientation="Horizontal" Grid.Row="2">
+            <Button   VerticalAlignment="Center" Width="100" Height="40"  Content="أضافه"  FontSize="16" Click="Create"  />
+
+        </StackPanel>
+
+    </Grid>
+</Window>
+

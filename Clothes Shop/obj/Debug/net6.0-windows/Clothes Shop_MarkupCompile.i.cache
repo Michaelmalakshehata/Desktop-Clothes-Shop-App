@@ -1,0 +1,20 @@
+﻿Clothes Shop
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\
+Clothes_Shop
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+F:\Clothes Shop\Clothes Shop\App.xaml
+1936391482
+
+24506876284
+2301473760026
+DeleteAccount.xaml;ForgotPassword.xaml;Login.xaml;MainWindow.xaml;Register.xaml;Resources\ButtonStyle.xaml;SerialNumers.xaml;Views\CategoryCreate.xaml;Views\CategoryDeleted.xaml;Views\CategoryDeletedItemDetailes.xaml;Views\CategoryItemDetailes.xaml;Views\CategoryUpdate.xaml;Views\CategoryView.xaml;Views\ProductCreate.xaml;Views\ProductDeletedItem.xaml;Views\ProductDeletedItemDetailes.xaml;Views\ProductItemDetailes.xaml;Views\ProductUpdate.xaml;Views\ProductView.xaml;
+
+True
+

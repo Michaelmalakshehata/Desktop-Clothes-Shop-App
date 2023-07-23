@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="MyProject.Views.ProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyProject.Views"
+             mc:Ignorable="d" 
+              d:DesignHeight="500" d:DesignWidth="850">
+    <Viewbox>
+        <Grid Loaded="Load" >
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80">
+                </RowDefinition>
+                <RowDefinition Height="*">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70">
+                </ColumnDefinition>
+                <ColumnDefinition Width="*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#204da5" Offset="0.0"/>
+                    <GradientStop Color="#6cc4d5" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <StackPanel Margin="15" FlowDirection="RightToLeft" Orientation="Horizontal" Grid.Row="0" Grid.Column="1" >
+
+
+
+                <TextBlock Text="بحث المنتج"
+                               Foreground="Black"
+                               FontSize="12"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="0 20 0 0"
+                               Height="14" RenderTransformOrigin="0.521,0.612"
+                               />
+                <TextBox x:Name="search"
+                             Height="38"
+                             Margin=" 10 0 0 0"
+                             Width="200" KeyDown="Search_Item">
+                    <TextBox.Background>
+                        <ImageBrush 
+                                Stretch="None"
+                                AlignmentX="Left"/>
+                    </TextBox.Background>
+                </TextBox>
+            </StackPanel>
+            <StackPanel  Margin="10 0 0 20" Orientation="Vertical" Grid.Row="1" Grid.Column="0" >
+
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content="أضافه" Click="Create"  />
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content="تعديل" Click="Update"   />
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content="حذف" Click="Delete"  />
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content="التفاصيل" Click="Detailes"   />
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content=" المهملات" Click="Deleted"   />
+                <Button HorizontalAlignment="Left" Margin="0 20 0 0" Width="50" Height="20" FontSize="13" Content=" تنشيط" Click="Refresh"   />
+
+            </StackPanel>
+
+            <DataGrid x:Name="productgrid" FlowDirection="RightToLeft" AutoGenerateColumns="False" Grid.Row="2" Grid.Column="2" Height="200" Width="440"
+                 
+                      IsReadOnly="True"
+                      FontSize="8"
+                      >
+                <DataGrid.Columns >
+                    <DataGridTextColumn Width="35" Header="الكود" Binding="{Binding Id}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="63" Header="أسم المنتج" Binding="{Binding Name}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="40" Header="السعر" Binding="{Binding Price}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="70" Header="التفاصيل" Binding="{Binding Detailes}"></DataGridTextColumn>
+
+                    <DataGridTemplateColumn  Header="الصوره" Width="70">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image x:Name="productimage" Source="{Binding ProductImg}" Height="60" Width="60" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Width="40" Header="كود الفئه" Binding="{Binding CategoryId}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="105" Header="تاريخ الانشاء" Binding="{Binding CreateDate}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="أسم المنشئ" Binding="{Binding CreateUserName}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="105" Header="تاريخ التعديل" Binding="{Binding UpdateDate}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="أسم المعدل" Binding="{Binding UpdateUserName}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="105" Header="تاريخ المسح" Binding="{Binding DeleteDate}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="أسم الماسح" Binding="{Binding DeleteUserName}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="105" Header="تاريخ الاعاده " Binding="{Binding RestoreDate}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="أسم المعيد" Binding="{Binding RestoreUserName}"></DataGridTextColumn>
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </Grid>
+    </Viewbox>
+
+</UserControl>

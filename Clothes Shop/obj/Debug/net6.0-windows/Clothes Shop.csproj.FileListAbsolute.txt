@@ -1,0 +1,248 @@
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.AssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ForgotPassword.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryView.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductView.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop_MarkupCompile.cache
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop_MarkupCompile.lref
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.exe
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.deps.json
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.runtimeconfig.json
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\App.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ForgotPassword.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Login.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Register.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryView.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductView.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.g.resources
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.AssemblyInfoInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.AssemblyInfo.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\refint\Clothes Shop.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.genruntimeconfig.cache
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ref\Clothes Shop.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\SerialNumers.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\SerialNumers.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.CopyComplete
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryCreate.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeleted.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryUpdate.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryCreate.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeleted.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryUpdate.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductCreate.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductCreate.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductUpdate.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductUpdate.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItem.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItem.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeletedItemDetailes.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryItemDetailes.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItemDetailes.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductItemDetailes.g.cs
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeletedItemDetailes.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryItemDetailes.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItemDetailes.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductItemDetailes.baml
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.exe
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.deps.json
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.runtimeconfig.json
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Clothes Shop.pdb
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\DAL.dll
+F:\Clothes Shop\Clothes Shop\bin\Debug\net6.0-windows\DAL.pdb
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.AssemblyReference.cache
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ForgotPassword.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Login.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Register.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\SerialNumers.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryCreate.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeleted.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeletedItemDetailes.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryItemDetailes.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryUpdate.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryView.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductCreate.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItem.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItemDetailes.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductItemDetailes.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductUpdate.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductView.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\App.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop_MarkupCompile.cache
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop_MarkupCompile.lref
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\App.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ForgotPassword.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Login.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Register.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\SerialNumers.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryCreate.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeleted.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryDeletedItemDetailes.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryItemDetailes.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryUpdate.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\CategoryView.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductCreate.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItem.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductDeletedItemDetailes.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductItemDetailes.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductUpdate.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Views\ProductView.baml
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.g.resources
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.AssemblyInfoInputs.cache
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.AssemblyInfo.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.CoreCompileInputs.cache
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.csproj.CopyComplete
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.dll
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\refint\Clothes Shop.dll
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.pdb
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\Clothes Shop.genruntimeconfig.cache
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\ref\Clothes Shop.dll
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\DeleteAccount.g.cs
+F:\Clothes Shop\Clothes Shop\obj\Debug\net6.0-windows\DeleteAccount.baml

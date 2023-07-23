@@ -1,0 +1,448 @@
+﻿<Window x:Class="Clothes_Shop.Views.ProductItemDetailes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clothes_Shop.Views"
+        mc:Ignorable="d"
+         Height="720" Width="700"
+         WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        >
+
+
+    <Grid Loaded="Window_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25">
+            </RowDefinition>
+            <RowDefinition Height="690">
+            </RowDefinition>
+
+        </Grid.RowDefinitions>
+
+
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="#204da5" Offset="0.0"/>
+                <GradientStop Color="#6cc4d5" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid Grid.Row="0">
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="25"/>
+                <ColumnDefinition Width="25"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnClose"                          
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="0" Click="btnClose_Click"
+                            >
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#DA34AE"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#C62DAE"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="btnMinimize"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1" Click="btnMinimize_Click" 
+                            >
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#28AEED"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#278BEF"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+
+            </Button>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1"  >
+            <Grid.ColumnDefinitions >
+
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Line Grid.Row="1" Grid.Column="2"  Y1="0" Y2="690" Width="10" Stroke="Blue" HorizontalAlignment="Left"></Line>
+
+            <Grid FlowDirection="RightToLeft" Grid.Column="1" HorizontalAlignment="Center" >
+
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition Width="320"/>
+
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="الكود"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               HorizontalAlignment="Left"
+                               Margin="10 10 0 0"
+                               Height="40"
+                               />
+                    <TextBlock Text="أسم المنتج"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               HorizontalAlignment="Left"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="تفاصيل المنتج"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               HorizontalAlignment="Left"
+                               FontFamily="Montserrat"
+                               Margin="10 60 0 0"
+                               Height="39" RenderTransformOrigin="0.467,1.075" 
+                               />
+                    <TextBlock Text="سعر المنتج"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               HorizontalAlignment="Left"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="أسم الفئه"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               HorizontalAlignment="Left"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="تاريخ الانشاء "
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="أسم المنشئ"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="تاريخ التعديل"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="أسم المعدل"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="تاريخ المسح"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="أسم الماسح"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="تاريخ الاعاده"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="40" 
+                               />
+                    <TextBlock Text="أسم المعيد"
+                               Foreground="Black"
+                               FontSize="20"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="10 10 0 0"
+                               Height="29" 
+                               />
+
+                </StackPanel>
+                <StackPanel Grid.Column="1"  Orientation="Vertical"  VerticalAlignment="Center" Height="670" >
+                    <TextBox x:Name="ProductCode"
+                            FontSize="20"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             Width="250" 
+                             Height="25"
+                             TextAlignment="Center"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="ProductName"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             Width="250"
+                             TextAlignment="Center"
+                             Height="49"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="ProductDetailes"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             Width="250"
+                             TextAlignment="Center"
+                             Height="101"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="ProductPrice"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             Width="250"
+                             TextAlignment="Center"
+                             Height="45"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="CategoryCode"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             Width="250"
+                             TextAlignment="Center"
+                             Height="45"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+
+                    <TextBox x:Name="CreateDate"
+                             Height="52"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250"
+                             FontSize="20"
+                             Padding="5 15 5 5"
+                             >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+
+                    <TextBox x:Name="CreateUserName"
+                             Height="53"
+                           FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="UpdateDate"
+                             Height="45"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="UpdateUserName"
+                             Height="53"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="DeleteDate"
+                             Height="53"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="DeleteUserName"
+                             Height="53"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="RestoreDate"
+                             Height="43"
+                            FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBox x:Name="RestoreUserName"
+                             Height="53"
+                           FontSize="20"
+                             Padding="5 15 5 5"
+                            IsEnabled="False"
+                            IsReadOnly="True"
+                             TextAlignment="Center"
+                             Width="250" >
+                        <TextBox.Background>
+                            <ImageBrush 
+                      Stretch="None"
+                      AlignmentX="Left"/>
+                        </TextBox.Background>
+                    </TextBox>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="600"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Image  x:Name="productimage" Width="230" Margin="10,0,10,5" />
+                </StackPanel>
+                <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Button   VerticalAlignment="Center" Width="100" Height="40"  Content="رجوع"  FontSize="16" Click="Back"  />
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+</Window>
+
